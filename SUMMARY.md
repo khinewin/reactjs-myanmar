@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Learn ReactJS in Myanmar](README.md)
-* [How does React work?](how-does-react-work.md)
 * [JavaScript core concepts](javascript/README.md)
   * [Variables](javascript/variables.md)
   * [Arrow functions](javascript/arrow-functions.md)
